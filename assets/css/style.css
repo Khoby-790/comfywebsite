@@ -1058,7 +1058,7 @@ p:last-child {
 
 .product-section-right {
 	flex: 1;
-	background-image: url(../img/image_6483441.JPG);
+	/* background-image: url(../img/image_6483441.JPG); */
 	background-position: center center left;
 	background-repeat: no-repeat;
 	background-size: cover;
