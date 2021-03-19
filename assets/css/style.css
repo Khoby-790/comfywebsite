@@ -1061,7 +1061,7 @@ p:last-child {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	/* background-image: url(../img/image_6483441.JPG); */
+	background-image: url(../img/image_6483441.JPG);
 	background-position: center center left;
 	background-repeat: no-repeat;
 	background-size: cover;
