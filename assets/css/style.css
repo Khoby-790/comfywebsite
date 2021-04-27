@@ -2312,6 +2312,7 @@ p:last-child {
 	display: -ms-flexbox;
 	display: -webkit-box;
 	display: flex;
+	align-items: center;
 	-ms-flex-wrap: wrap;
 	flex-wrap: wrap;
 	margin-right: auto;
